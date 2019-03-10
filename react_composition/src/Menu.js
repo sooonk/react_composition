@@ -7,6 +7,7 @@ class Menu extends React.Component {
             <Fragment>
                 <nav className='menu'>
                     <Link to="/">Home</Link><br />
+                    <Link to="tabapp">Tab App</Link><br />
                     <Link to="about">O nas</Link><br />
                     <Link to="contact">Kontakt</Link>
                 </nav>
